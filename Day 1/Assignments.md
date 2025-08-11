@@ -19,6 +19,4 @@ void main() {
     print('Error: Invalid destination zone.');
   }
 }```
-
-!(alt="Screenshot from 2025-01-08 21-27-17")
-
+![bg](https://github.com/user-attachments/assets/6915b699-ab4b-42e8-a13b-ca1c8529bef1)
