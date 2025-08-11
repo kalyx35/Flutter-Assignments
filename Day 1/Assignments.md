@@ -20,5 +20,5 @@ void main() {
   }
 }```
 
-!(<img width="299" height="271" alt="Screenshot from 2025-01-08 21-27-17" src="https://github.com/user-attachments/assets/dcb28f14-f0f6-429a-8a46-a4000228b02a" />)
+!(alt="Screenshot from 2025-01-08 21-27-17")
 
